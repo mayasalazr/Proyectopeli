@@ -25,5 +25,8 @@ Clona el repositorio a tu máquina local:
 git clone https://github.com/mayasalazr/myrepo.git
 cd tu-repo
 
+<<<<<<< HEAD
 esta linea fue creada para la fusion
 
+=======
+>>>>>>> origin/main
